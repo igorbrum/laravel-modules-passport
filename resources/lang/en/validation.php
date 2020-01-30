@@ -133,6 +133,9 @@ return [
         'attribute-name' => [
             'rule-name' => 'custom-message',
         ],
+        /*'password' => [
+            'password' => 'These credentials do not match our records',
+        ],*/
     ],
 
     /*
